@@ -1,0 +1,1 @@
+var json_zonaSMAN2Palu_1 = {"type":"FeatureCollection","name":"zonaSMAN2Palu_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Sekolah":"SMAN 2 Palu","Longtitude":119.87824,"Latitude__":-0.90289},"geometry":{"type":"Point","coordinates":[119.8782393,-0.9028917]}}]}
